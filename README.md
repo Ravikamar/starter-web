@@ -12,6 +12,8 @@ The purpose is to show how to compare changes to files
 
 ## Deployement
 
+remote: changes 
+
 Sample website with plenty of files for demos
 
 ## How to Contribure
