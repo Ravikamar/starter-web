@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How to Contribure
 
 so this is how you can contribute
+
+## Copy write notice
+
+this is copy write notice
