@@ -1,3 +1,5 @@
+this is stash command
+
 this is a new file
 
 so this is the second 
