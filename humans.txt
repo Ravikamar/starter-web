@@ -5,7 +5,7 @@
 
     <name> -- <role> -- <twitter>
 
-# THANKS
+# THANKS so all the data got removed from here
 
     <name>
 
